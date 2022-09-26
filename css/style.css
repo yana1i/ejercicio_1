@@ -1,0 +1,15 @@
+/* adaptar las imagenes a mi sistema de columnas se */
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+    /*cambia los elementos en linea que no tienen ni ancho ni alto por elementos en bloque*/
+}
+
+.flex {
+    display: flex;
+}
+
+article {
+    width: 33, 333%;
+}
